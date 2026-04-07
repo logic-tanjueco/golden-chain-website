@@ -31,7 +31,7 @@
 
 .clients-slide {
   display: inline-block;
-  animation: 25s scroll infinite linear;
+  /* animation: 55s scroll infinite linear; */
 }
 
 .clients-slide img {
@@ -64,10 +64,7 @@
   }
 }
 
-
-
 @media screen and (min-width: 360px) {
-
   .clients-slide img {
     margin: 0 30px;
   }
@@ -100,7 +97,6 @@
   .clients {
     padding: 50px 0;
   }
-
 }
 
 @media screen and (min-width: 1100px) {
@@ -112,7 +108,7 @@
     padding-top: 50px;
     font-size: 2rem;
   }
-  
+
   .clients-slide img {
     height: 70px;
     margin: 0 60px;

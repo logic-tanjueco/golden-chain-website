@@ -86,8 +86,10 @@ const Footer = () => {
               </span>
               <div className="contact-numbers">
                 <p className="inline">(02) 7 005 7506</p>
-                <p>0917 536 1896 (Sales Head)</p>
-                <p>0917 719 2213 (General Manager)</p>
+                <p>+63 917 536 1896</p>
+                <p>+63 917 154 4277</p>
+                <p>+63 945 231 1191</p>
+                <p>+63 915 511 7064</p>
               </div>
             </div>
             
