@@ -1,19 +1,13 @@
 import React from "react";
 import "./clients.css";
 import {
-  twogo,
-  chelseahip,
-  cnc,
-  frabelle,
+  apfc,
+  magsaysay,
+  napocor,
+  nmdc,
   psacc,
-  tasli,
-  shogun,
-  oceanic,
-  starlite,
-  herma,
-  landstar,
-  kolora,
-  keppel,
+  vistamarine,
+  transoil,
 } from "./imports";
 
 const Clients = () => {
@@ -22,49 +16,13 @@ const Clients = () => {
       <p className="clients-text">Trusted by various clients</p>
       <div className="clients">
         <div className="clients-slide">
-          <img src={twogo} />
-          <img src={chelseahip} />
-          <img src={cnc} />
-          <img src={frabelle} />
           <img src={psacc} />
-          <img src={tasli} />
-          <img src={shogun} />
-          <img src={oceanic} />
-          <img src={starlite} />
-          <img src={herma} />
-          <img src={landstar} />
-          <img src={kolora} />
-          <img src={keppel} />
-        </div>
-        <div className="clients-slide">
-          <img src={twogo} />
-          <img src={chelseahip} />
-          <img src={cnc} />
-          <img src={frabelle} />
-          <img src={psacc} />
-          <img src={tasli} />
-          <img src={shogun} />
-          <img src={oceanic} />
-          <img src={starlite} />
-          <img src={herma} />
-          <img src={landstar} />
-          <img src={kolora} />
-          <img src={keppel} />
-        </div>
-        <div className="clients-slide">
-          <img src={twogo} />
-          <img src={chelseahip} />
-          <img src={cnc} />
-          <img src={frabelle} />
-          <img src={psacc} />
-          <img src={tasli} />
-          <img src={shogun} />
-          <img src={oceanic} />
-          <img src={starlite} />
-          <img src={herma} />
-          <img src={landstar} />
-          <img src={kolora} />
-          <img src={keppel} />
+          <img src={apfc} />
+          <img src={magsaysay} />
+          <img src={napocor} />
+          <img src={nmdc} />
+          <img src={vistamarine} />
+          <img src={transoil} />
         </div>
       </div>
     </div>
